@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/termconditionfacebook/static/css/main.e6c13ad2.css",
+    "main.js": "/termconditionfacebook/static/js/main.e5eafdd4.js",
+    "static/js/453.9fb712e9.chunk.js": "/termconditionfacebook/static/js/453.9fb712e9.chunk.js",
+    "index.html": "/termconditionfacebook/index.html",
+    "main.e6c13ad2.css.map": "/termconditionfacebook/static/css/main.e6c13ad2.css.map",
+    "main.e5eafdd4.js.map": "/termconditionfacebook/static/js/main.e5eafdd4.js.map",
+    "453.9fb712e9.chunk.js.map": "/termconditionfacebook/static/js/453.9fb712e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5eafdd4.js"
+  ]
+}
